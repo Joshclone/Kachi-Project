@@ -1,0 +1,11 @@
+{
+    "dbuser" : {
+        "dbConfig" : {
+            "host" : "localhost",
+            "port" : 5984,
+            "dbName" : "mongodb+srv://dbuser:dbuser@cluster0.s3vdr.mongodb.net/Bank?retryWrites=true&w=majority"
+            
+        }
+    
+        }
+    }
